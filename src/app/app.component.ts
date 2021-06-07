@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pan-validation';
+
+  data: string = ''
+  value: boolean = false
+
+  clickMe() {
+    console.log(this.data)
+    this.value = true;
+  }
 }

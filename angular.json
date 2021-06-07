@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "pan-validation"
+  "defaultProject": "pan-validation",
+  "cli": {
+    "analytics": "39cb67ac-4362-4704-8e4f-04ca69380325"
+  }
 }
